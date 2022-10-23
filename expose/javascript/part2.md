@@ -12,9 +12,9 @@
 10. Line 12 will print `3` because that is the length of the array passed in to the function, which is set to the variable `length`.
 11. The function works as expected and returns an array of discounted prices. Every loop in the for-loop redefines the variable `discountedPrice` which allows it to be recalculated each time before being pushed to the `discounted` array.
 12. 
-    a.  `student.name`
-    b.  `student['Grad Year']`
-    c.  `student.greeting()`
-    d.  `student['Favorite Teacher'].name`
-    e.  `student.courseLoad[0]`
+    1.  `student.name`
+    2.  `student['Grad Year']`
+    3.  `student.greeting()`
+    4.  `student['Favorite Teacher'].name`
+    5.  `student.courseLoad[0]`
 13. 
